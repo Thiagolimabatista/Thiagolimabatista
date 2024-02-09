@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Thiago</h1>
 <h3 align="center">A passionate fullstack developer from Brasil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mgckaled&label=Profile%20views&color=0e75b6&style=flat" alt="mgckaled" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Thiagolimabatista&label=Profile%20views&color=0e75b6&style=flat" alt="Thiagolimabatista" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mgckaled" alt="mgckaled" /></a> </p>
 
